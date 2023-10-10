@@ -6,7 +6,7 @@ My hobbies are active things such as hiking and soccer.	</h4>
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" height="150" width="210" src="data.gif">
 
-- 🔭 **I’m currently working on:** IOS
+- 🔭 **I’m currently working on:** iOS
 - 🌱 **I’m currently learning:** VisionOS
 
 ---
